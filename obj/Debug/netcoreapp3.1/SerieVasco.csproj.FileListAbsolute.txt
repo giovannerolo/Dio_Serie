@@ -1,0 +1,14 @@
+C:\Users\giova\Documents\DioCSharp\SerieVasco\bin\Debug\netcoreapp3.1\SerieVasco.exe
+C:\Users\giova\Documents\DioCSharp\SerieVasco\bin\Debug\netcoreapp3.1\SerieVasco.deps.json
+C:\Users\giova\Documents\DioCSharp\SerieVasco\bin\Debug\netcoreapp3.1\SerieVasco.runtimeconfig.json
+C:\Users\giova\Documents\DioCSharp\SerieVasco\bin\Debug\netcoreapp3.1\SerieVasco.runtimeconfig.dev.json
+C:\Users\giova\Documents\DioCSharp\SerieVasco\bin\Debug\netcoreapp3.1\SerieVasco.dll
+C:\Users\giova\Documents\DioCSharp\SerieVasco\bin\Debug\netcoreapp3.1\SerieVasco.pdb
+C:\Users\giova\Documents\DioCSharp\SerieVasco\obj\Debug\netcoreapp3.1\SerieVasco.csproj.AssemblyReference.cache
+C:\Users\giova\Documents\DioCSharp\SerieVasco\obj\Debug\netcoreapp3.1\SerieVasco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\DioCSharp\SerieVasco\obj\Debug\netcoreapp3.1\SerieVasco.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\DioCSharp\SerieVasco\obj\Debug\netcoreapp3.1\SerieVasco.AssemblyInfo.cs
+C:\Users\giova\Documents\DioCSharp\SerieVasco\obj\Debug\netcoreapp3.1\SerieVasco.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\DioCSharp\SerieVasco\obj\Debug\netcoreapp3.1\SerieVasco.dll
+C:\Users\giova\Documents\DioCSharp\SerieVasco\obj\Debug\netcoreapp3.1\SerieVasco.pdb
+C:\Users\giova\Documents\DioCSharp\SerieVasco\obj\Debug\netcoreapp3.1\SerieVasco.genruntimeconfig.cache
